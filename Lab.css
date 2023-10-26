@@ -1,0 +1,22 @@
+h1{
+  color: white;
+  font-size: 20px;
+  font-style: italic;
+}
+p{
+  color: white;
+  font-size: 15px;
+}
+span{
+  color: white;
+  font-weight: bold;
+}
+body{
+  background: lightblue;
+  border: 5px solid lightgreen;
+}
+ h4{
+color: green;
+font-size: 10px;
+text-decoration: underline;
+}
